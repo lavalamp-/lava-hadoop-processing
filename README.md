@@ -17,7 +17,7 @@ Once the results of your Hadoop jobs are pulled down locally, you can do one of 
 
 All functionality is invoked using the `run.py` file (ex: `python run.py process-results`).
 
-The code is fully documented and uses `argparse`, so command line help should go a long way with getting things going for you.
+The code is fully documented and uses `argparse`, so command line help should go a long way with getting things going for you. Furthermore, the only required command line argument is `--results-directory` or `-r`, which should point to the directory where all of the Hadoop result files reside. Other than that, the default values for the command line arguments should be just fine.
 
 Command help for `process-results` is below:
 
