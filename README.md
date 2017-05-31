@@ -105,3 +105,5 @@ optional arguments:
 ```
 
 If you're only interested in the content discovery hit lists that have been generated using this project and [LavaHadoopCrawlAnalysis](https://github.com/lavalamp-/LavaHadoopCrawlAnalysis), head on over to the [content-discovery-hit-lists](https://github.com/lavalamp-/content-discovery-hit-lists) repository.
+
+More details will be available via a blog post on [lavalamp's personal blog](https://l.avala.mp/) in the near future.
